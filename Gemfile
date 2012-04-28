@@ -5,12 +5,7 @@ gem 'rails', '3.1.4'
 # Bundle edge Rails instead:
 # gem 'rails',     :git => 'git://github.com/rails/rails.git'
 
-group :development, :test do
-  gem 'sqlite3'
-end
-group :production do
-  gem 'pg'
-end
+gem 'sqlite3'
 
 
 # Gems used only for assets and not required
@@ -47,3 +42,6 @@ end
 gem 'spree_usa_epay'
 gem 'spree_skrill'
 gem 'spree'
+
+gem 'spree_i18n', :git => 'git://github.com/spree/spree_i18n.git'
+

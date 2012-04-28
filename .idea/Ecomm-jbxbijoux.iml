@@ -59,7 +59,6 @@
     <orderEntry type="library" scope="PROVIDED" name="nori (v1.1.0, RVM: ruby-1.9.3-p125 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="orm_adapter (v0.0.7, RVM: ruby-1.9.3-p125 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="paperclip (v2.5.0, RVM: ruby-1.9.3-p125 [global]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="pg (v0.13.2, RVM: ruby-1.9.3-p125 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="polyamorous (v0.5.0, RVM: ruby-1.9.3-p125 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="polyglot (v0.3.3, RVM: ruby-1.9.3-p125 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack (v1.3.6, RVM: ruby-1.9.3-p125 [global]) [gem]" level="application" />

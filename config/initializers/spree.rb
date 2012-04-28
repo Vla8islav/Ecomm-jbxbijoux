@@ -8,5 +8,6 @@
 Spree.config do |config|
   # Example:
   # Uncomment to override the default site name.
-  # config.site_name = "Spree Demo Site"
+  config.site_name = "JBX-Bijoux"
+  config.logo = "store/rails.png"
 end
