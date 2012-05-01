@@ -1,6 +1,9 @@
 JbxbijouxSpree::Application.routes.draw do
   # Mount Spree's routes
   mount Spree::Core::Engine, :at => '/'
+
+  match 'road-map' => 'Spree::Home#index'
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

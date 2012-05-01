@@ -45,3 +45,4 @@ gem 'spree'
 
 gem 'spree_i18n', :git => 'git://github.com/spree/spree_i18n.git'
 
+gem "spree_editor"
